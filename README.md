@@ -12,108 +12,106 @@ The linked notebook as written returns such a portfolio using some or all consti
 
 **Keep in mind the portfolio is only efficient for time periods with available returns data. The results are not forward-looking, nor are they advice to buy or sell any security.**
 
-```
-Assumed total annual return: 25.0%.
+`Assumed total annual return: 25.0%.`
 
-Minimium-variance portfolio is:
-X(AAPL) = 12.0% (LONG)
-X(ABT) = 4.0% (LONG)
-X(ACN) = -9.0% (SHORT)
-X(ADBE) = 1.0% (LONG)
-X(AIG) = -1.0% (SHORT)
-X(ALL) = 13.0% (LONG)
-X(AMGN) = 2.0% (LONG)
-X(AMT) = 38.0% (LONG)
-X(AMZN) = -3.0% (SHORT)
-X(AXP) = -20.0% (SHORT)
-X(BA) = 11.0% (LONG)
-X(BAC) = 5.0% (LONG)
-X(BIIB) = -5.0% (SHORT)
-X(BK) = -1.0% (SHORT)
-X(BKNG) = 1.0% (LONG)
-X(BLK) = 6.0% (LONG)
-X(BMY) = 14.0% (LONG)
-X(BRK-B) = 17.0% (LONG)
-X(C) = 7.0% (LONG)
-X(CAT) = -14.0% (SHORT)
-X(CHTR) = -4.0% (SHORT)
-X(CL) = -11.0% (SHORT)
-X(CMCSA) = -1.0% (SHORT)
-X(COF) = 4.0% (LONG)
-X(COP) = -13.0% (SHORT)
-X(COST) = -35.0% (SHORT)
-X(CRM) = 2.0% (LONG)
-X(CSCO) = -11.0% (SHORT)
-X(CVS) = -2.0% (SHORT)
-X(CVX) = 2.0% (LONG)
-X(DD) = 3.0% (LONG)
-X(DHR) = 17.0% (LONG)
-X(DIS) = -17.0% (SHORT)
-X(DUK) = 4.0% (LONG)
-X(EMR) = 6.0% (LONG)
-X(EXC) = 4.0% (LONG)
-X(F) = -2.0% (SHORT)
-X(FDX) = 3.0% (LONG)
-X(GD) = -7.0% (SHORT)
-X(GE) = -1.0% (SHORT)
-X(GILD) = -2.0% (SHORT)
-X(GM) = -4.0% (SHORT)
-X(GOOG) = 2.0% (LONG)
-X(GOOGL) = 0.0% (LONG)
-X(GS) = -3.0% (SHORT)
-X(HD) = 9.0% (LONG)
-X(HON) = -2.0% (SHORT)
-X(IBM) = -12.0% (SHORT)
-X(INTC) = -1.0% (SHORT)
-X(JNJ) = 5.0% (LONG)
-X(JPM) = -6.0% (SHORT)
-X(KO) = 5.0% (LONG)
-X(LLY) = -6.0% (SHORT)
-X(LMT) = -1.0% (SHORT)
-X(LOW) = 3.0% (LONG)
-X(MA) = 6.0% (LONG)
-X(MCD) = 17.0% (LONG)
-X(MDLZ) = -7.0% (SHORT)
-X(MDT) = -7.0% (SHORT)
-X(MET) = -8.0% (SHORT)
-X(MMM) = -3.0% (SHORT)
-X(MO) = 18.0% (LONG)
-X(MRK) = 40.0% (LONG)
-X(MS) = 2.0% (LONG)
-X(MSFT) = -3.0% (SHORT)
-X(NEE) = -2.0% (SHORT)
-X(NFLX) = 2.0% (LONG)
-X(NKE) = -2.0% (SHORT)
-X(NVDA) = -4.0% (SHORT)
-X(ORCL) = 8.0% (LONG)
-X(OXY) = 1.0% (LONG)
-X(PEP) = -11.0% (SHORT)
-X(PFE) = -1.0% (SHORT)
-X(PG) = -11.0% (SHORT)
-X(PM) = 1.0% (LONG)
-X(QCOM) = 0.0% (LONG)
-X(RTX) = 2.0% (LONG)
-X(SBUX) = 14.0% (LONG)
-X(SLB) = 0.0% (LONG)
-X(SO) = 5.0% (LONG)
-X(SPG) = -2.0% (SHORT)
-X(T) = 12.0% (LONG)
-X(TGT) = -3.0% (SHORT)
-X(TMO) = -3.0% (SHORT)
-X(TXN) = 1.0% (LONG)
-X(UNH) = 12.0% (LONG)
-X(UNP) = -4.0% (SHORT)
-X(UPS) = 4.0% (LONG)
-X(USB) = -3.0% (SHORT)
-X(V) = 4.0% (LONG)
-X(VZ) = 32.0% (LONG)
-X(WBA) = 8.0% (LONG)
-X(WFC) = 1.0% (LONG)
-X(WMT) = -7.0% (SHORT)
-X(XOM) = -13.0% (SHORT)
+|Symbol|Allocation            |
+|------|----------------------|
+|MRK   |0.3972205589675351    |
+|AMT   |0.3783582015900351    |
+|VZ    |0.3202755681815359    |
+|MO    |0.17719959972344493   |
+|BRK-B |0.17489104839248878   |
+|DHR   |0.17166311623311303   |
+|MCD   |0.1695267146573016    |
+|SBUX  |0.14487804294051074   |
+|BMY   |0.14456564883440723   |
+|ALL   |0.1254830921837608    |
+|T     |0.12381110309592498   |
+|UNH   |0.11876206339787432   |
+|AAPL  |0.11554665742437792   |
+|BA    |0.1070973683046192    |
+|HD    |0.08744036923946771   |
+|WBA   |0.07805052817126512   |
+|ORCL  |0.07647133286952344   |
+|C     |0.06556643092689206   |
+|BLK   |0.06481346047814728   |
+|EMR   |0.0641065221792536    |
+|MA    |0.0598243414974364    |
+|KO    |0.0530697615890368    |
+|JNJ   |0.050904068468530746  |
+|BAC   |0.05038378198704709   |
+|SO    |0.04593382834708014   |
+|EXC   |0.04278802712372627   |
+|COF   |0.04003970314495756   |
+|ABT   |0.03882685559832878   |
+|UPS   |0.0382897758819761    |
+|V     |0.03801780283146782   |
+|DUK   |0.03757396127344294   |
+|LOW   |0.02882480577157561   |
+|DD    |0.027829993974072945  |
+|FDX   |0.02710178421951142   |
+|NFLX  |0.02367988443825572   |
+|RTX   |0.02222686861321084   |
+|AMGN  |0.021666740569665378  |
+|CVX   |0.020   |
+|CRM   |0.020   |
+|GOOG  |0.016   |
+|MS    |0.015   |
+|PM    |0.014   |
+|ADBE  |0.013   |
+|WFC   |0.012   |
+|OXY   |0.010   |
+|BKNG  |0.008   |
+|TXN   |0.005   |
+|GOOGL |0.004   |
+|QCOM  |0.000   |
+|SLB   |0.000   |
+|PFE   |-0.005  |
+|LMT   |-0.008  |
+|AIG   |-0.009  |
+|BK    |-0.009  |
+|GE    |-0.009  |
+|CMCSA |-0.010  |
+|INTC  |-0.011  |
+|HON   |-0.017  |
+|NEE   |-0.018  |
+|CVS   |-0.020  |
+|GILD  |-0.023  |
+|F     |-0.024  |
+|SPG   |-0.024  |
+|NKE   |-0.024  |
+|AMZN  |-0.027  |
+|MMM   |-0.029  |
+|USB   |-0.030  |
+|GS    |-0.031  |
+|TMO   |-0.032  |
+|TGT   |-0.034  |
+|MSFT  |-0.034  |
+|GM    |-0.035  |
+|CHTR  |-0.039  |
+|UNP   |-0.040  |
+|NVDA  |-0.042  |
+|BIIB  |-0.050  |
+|LLY   |-0.058  |
+|JPM   |-0.064  |
+|WMT   |-0.066  |
+|GD    |-0.071  |
+|MDLZ  |-0.072  |
+|MDT   |-0.072  |
+|MET   |-0.080  |
+|ACN   |-0.085  |
+|CSCO  |-0.105  |
+|PEP   |-0.106  |
+|CL    |-0.110  |
+|PG    |-0.114  |
+|IBM   |-0.121  |
+|COP   |-0.132  |
+|XOM   |-0.132  |
+|CAT   |-0.139  |
+|DIS   |-0.165  |
+|AXP   |-0.195  |
+|COST  |-0.352  |
 
-Sum of X = 100.0%
-```
 If $10,000 was invested with that allocation (and rebalanced monthly) between January 2011 and December 2019 the portfolio would have had the following returns:
 <img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
 <img src="example_analysis/annual_returns.png" alt="returns" width="100%"/>
