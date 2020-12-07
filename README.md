@@ -16,7 +16,7 @@ Example expected return: `25%`.
 
 Time period valid: `Jan 2011` - `Dec 2019`.
 
-|   Long    	|               	|   No position  	|               	|   Short   	|               	|
+|   Long    	|               	|   Less than 1% 	|               	|   Short   	|               	|
 |-----------	|---------------	|----------------	|---------------	|-----------	|---------------	|
 |   Symbol  	|   Allocation  	|   Symbol       	|   Allocation  	|   Symbol  	|   Allocation  	|
 |   MRK     	|   39.7%       	|   BKNG         	|   0.85%       	|   COST    	|   -35.3%      	|
