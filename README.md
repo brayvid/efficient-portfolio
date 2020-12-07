@@ -64,7 +64,7 @@ If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, ex
 | OXY    | 1.1%       |              |            | PFE    | -0.5%      |
 | Long   | 388%       | Total        | 100%       | Short  | -288%      |
 
-If $10,000 had been distributed according to the above table on January 1, 2011 and rebalanced monthly, the portfolio would have had the following returns by January 1, 2020:
+If $10,000 had been distributed according to the above table on January 1, 2011 and rebalanced monthly, the portfolio would have had the following returns by January 1, 2020 (9 years):
 <img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
 <img src="example_analysis/annual_returns.png" alt="returns" width="100%"/>
 <img src="example_analysis/drawdowns.png" alt="drawdowns" width="100%"/>
