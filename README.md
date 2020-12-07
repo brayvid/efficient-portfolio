@@ -12,9 +12,9 @@ The linked notebook as written returns such a portfolio using some or all consti
 
 **Keep in mind the portfolio is only efficient for time periods with available returns data. The results are not forward-looking, nor are they advice to buy or sell any security.**
 
-`Assumed total annual return: 25.0%.`
+Assumed total annual return: `25.0%.`
 
-|Symbol|Alloc.  |
+|Symbol|Port%   |
 |------|--------|
 |MRK   |0.397   |
 |AMT   |0.378   |
