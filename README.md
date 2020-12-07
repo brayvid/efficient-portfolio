@@ -66,7 +66,7 @@ Time period valid: `Jan 2011` - `Dec 2019`.
 |   OXY     	|   1.1%        	|                	|               	|   PFE     	|   -0.5%       	|
 |   Long    	|   388%      	  |   Total        	|   100%         	|   Short   	|   -288%     	  |
 
-If $10,000 was invested with that allocation (and rebalanced monthly) between January 2011 and December 2019 the portfolio would have had the following returns:
+If $10,000 had been invested with that allocation and rebalanced monthly between January 2011 and December 2019, the portfolio would have had the following return profile:
 <img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
 <img src="example_analysis/annual_returns.png" alt="returns" width="100%"/>
 <img src="example_analysis/drawdowns.png" alt="drawdowns" width="100%"/>
