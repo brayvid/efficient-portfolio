@@ -114,5 +114,5 @@ X(XOM) = -13.0% (SHORT)
 
 Sum of X = 100.0%
 ```
-This allocation would have resulted in the following returns between January 2011 and December 2019 if $10,000 was invested accordingly:
-<img src="portfolio_growth.png" alt="growth" width="100%"/>
+If $10,000 was invested with that allocation (and rebalanced monthly) between January 2011 and December 2019 the portfolio would have had the following returns:
+<img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
