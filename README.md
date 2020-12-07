@@ -64,7 +64,6 @@ Time period valid: `Jan 2011` - `Dec 2019`.
 |   ADBE    	|   1.3%        	|                	|               	|   AIG     	|   -0.9%       	|
 |   WFC     	|   1.2%        	|                	|               	|   LMT     	|   -0.9%       	|
 |   OXY     	|   1.1%        	|                	|               	|   PFE     	|   -0.5%       	|
-|-----------	|---------------	|----------------	|---------------	|-----------	|---------------	|
 |   Long    	|   388%      	  |   Total        	|   100%         	|   Short   	|   -288%     	  |
 
 If $10,000 was invested with that allocation (and rebalanced monthly) between January 2011 and December 2019 the portfolio would have had the following returns:
