@@ -10,8 +10,9 @@ The algorithm outputs the fraction of the portfolio to be allocated to each secu
 
 The linked notebook as written returns such a portfolio using some or all constituents of the S&P 100 index with available returns data from 2010-2019. You must specify the level of expected returns at which to perform the allocation.
 
-**Keep in mind that the folllwing is not investment advice. They are not forward-looking, and they are not advice to buy or sell any security.**
+**Keep in mind that this is a personal project, not investment advice. These are not forward-looking statements or advice to buy or sell any security.**
 
+If the entire S&P 100 index is used as input with 25% expected annual returns, this is the minimum-variance allocation.
 
 | Long   |            | Less than 1% |            | Short  |            |
 |--------|------------|--------------|------------|--------|------------|
