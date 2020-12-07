@@ -12,7 +12,7 @@ The linked notebook as written returns such a portfolio using some or all consti
 
 **Keep in mind the portfolio is only efficient for time periods with available returns data. The results are not forward-looking, nor are they advice to buy or sell any security.**
 
-Assumed total annual return: `25.0%.`
+Example expected return: `25%`.
 
 |Symbol|Allocation            |
 |------|----------------------|
