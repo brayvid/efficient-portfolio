@@ -57,10 +57,10 @@ If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, ex
 | CVX    | 2.1%       |              |            | HON    | -1.7%      |
 | CRM    | 2.0%       |              |            | INTC   | -1.2%      |
 | GOOG   | 1.7%       |              |            | CMCSA  | -1.0%      |
-| MS     | 1.6%       |              |            | GE     | -1.0%      |
-| PM     | 1.4%       |              |            | BK     | -0.9%      |
-| ADBE   | 1.3%       |              |            | AIG    | -0.9%      |
-| WFC    | 1.2%       |              |            | LMT    | -0.9%      |
+| MS     | 1.6%       |              |            |        |            |
+| PM     | 1.4%       |              |            |        |            |
+| ADBE   | 1.3%       |              |            |        |            |
+| WFC    | 1.2%       |              |            |        |            |
 | OXY    | 1.1%       |              |            |        |            |
 | Long   | 388%       | Total        | 100%       | Short  | -288%      |
 
