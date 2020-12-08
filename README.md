@@ -72,6 +72,6 @@ This portfolio had an inflation-adjusted annualized growth rate of 19.8%, and ha
 </br>
 <img src="example/summary.png" alt="summary" width="100%"/>
 </br>
-The Merton-weighted portfolio saw an annualized alpha of over 20% and a beta of 7%, handily beating both the equal weight portfolio and a total-market benchmark:
+The Merton portfolio saw an annualized alpha of over 20% and a beta of 7%, handily beating both the equal weight portfolio and a total-market benchmark:
 </br>
 <img src="example/metrics.png" alt="metrics" width="100%"/>
