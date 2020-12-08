@@ -4,7 +4,7 @@
 
 This is an implementation of [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton)'s efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972), written in a Jupyter notebook (Google Colaboratory).
 
-In the paper, Dr. Merton describes an algorithm that, given historical returns data from several identified securities, constructs a portfolio with the <ins>lowest variance in returns for a given level of expected returns</ins> (this is the "efficiency").
+In the paper, Dr. Merton describes an algorithm that constructs a portfolio from a list of identified securities with the <ins>lowest variance in returns for a given level of expected returns</ins> (this is the "efficiency"), given historical returns data for the stocks.
 
 The algorithm outputs the fraction of the portfolio to be allocated to each security. Each may be positive or negative corresponding to long and short positions, or zero when no position should be taken. They will always sum to 100%.
 
