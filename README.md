@@ -62,7 +62,7 @@ If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, ex
 | ADBE   | 1.3%       |              |            |        |            |
 | WFC    | 1.2%       |              |            |        |            |
 | OXY    | 1.1%       |              |            |        |            |
-| Long   | 388%       | Total        | 100%       | Short  | -288%      |
+| Long   | 390%       | Total        | 100%       | Short  | -290%      |
 
 If $10,000 had been distributed according to the above table on January 1, 2011 and rebalanced monthly, the portfolio would have had the following returns by January 1, 2020 (9 years):
 <img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
