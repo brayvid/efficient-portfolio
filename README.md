@@ -68,15 +68,14 @@ If $10,000 had been distributed according to the above table on January 1, 2011 
 </br>
 <img src="example/portfolio_growth.png" alt="growth" width="100%"/>
 </br>
-The portfolio had an average inflation-adjusted annual growth rate of 19.8%, and a smaller maximum drawdown than an equal weight portfolio of the same stocks and of a Wilshire 5000 total market benchmark:
+The portfolio had an average inflation-adjusted annual growth rate of 19.8%, and had a smaller maximum drawdown than an equally-weighted portfolio of the same stocks.
 </br>
 <img src="example/summary.png" alt="summary" width="100%"/>
 </br>
+The Merton-weighted portfolio saw an annualized alpha of over 20% and a beta of 7%, handily beating both the equal weight portfolio and a total-market benchmark:
 </br>
 <img src="example/metrics.png" alt="metrics" width="100%"/>
 </br>
-</br>
 <img src="example/annual_returns.png" alt="returns" width="100%"/>
-</br>
 </br>
 <img src="example/drawdowns.png" alt="drawdowns" width="100%"/>
