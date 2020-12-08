@@ -66,17 +66,17 @@ If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, th
 
 If $10,000 had been distributed according to the above table on January 1, 2011 and rebalanced monthly, the portfolio would have had the following returns profile 9 years later on January 1, 2020:
 </br>
-<img src="example_analysis/portfolio_growth.png" alt="growth" width="100%"/>
+<img src="example/portfolio_growth.png" alt="growth" width="100%"/>
 </br>
 The portfolio had an average inflation-adjusted annual growth rate of 19.8%, and a smaller maximum drawdown than an equal weight portfolio of the same stocks and of a Wilshire 5000 total market benchmark:
 </br>
-<img src="example_analysis/summary.png" alt="summary" width="100%"/>
+<img src="example/summary.png" alt="summary" width="100%"/>
 </br>
 </br>
-<img src="example_analysis/metrics.png" alt="metrics" width="100%"/>
+<img src="example/metrics.png" alt="metrics" width="100%"/>
 </br>
 </br>
-<img src="example_analysis/annual_returns.png" alt="returns" width="100%"/>
+<img src="example/annual_returns.png" alt="returns" width="100%"/>
 </br>
 </br>
-<img src="example_analysis/drawdowns.png" alt="drawdowns" width="100%"/>
+<img src="example/drawdowns.png" alt="drawdowns" width="100%"/>
