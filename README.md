@@ -68,7 +68,7 @@ If $10,000 had been distributed according to the above table on January 1, 2011 
 </br>
 <img src="example/portfolio_growth.png" alt="growth" width="100%"/>
 </br>
-The portfolio had an average inflation-adjusted annual growth rate of 19.8%, and had a smaller maximum drawdown than an equally-weighted portfolio of the same stocks.
+This portfolio had an inflation-adjusted annualized growth rate of 19.8%, and had a smaller maximum drawdown than an equally-weighted portfolio of the same stocks.
 </br>
 <img src="example/summary.png" alt="summary" width="100%"/>
 </br>
