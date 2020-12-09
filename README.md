@@ -70,8 +70,8 @@ If $10,000 had been distributed according to the above table on January 1, 2011 
 </br>
 The Merton-allocated portfolio had an annualized inflation-adjusted growth rate of 19.8%, compared to 14.1% for an equal-weight allocation:
 </br>
-<img src="example/summary.png" alt="summary" width="100%"/>
+<img src="example/summary_table.png" alt="summary" width="100%"/>
 </br>
 It saw an alpha of over 20% and a beta of 7%, handily surpassing the equal weight portfolio with 3.5% and 97% respectively:
 </br>
-<img src="example/metrics.png" alt="metrics" width="100%"/>
+<img src="example/metrics_table.png" alt="metrics" width="100%"/>
