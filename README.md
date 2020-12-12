@@ -8,7 +8,7 @@ Building on the work of [Harry Markowitz](https://en.wikipedia.org/wiki/Modern_p
 
 The Colab notebook linked above returns such a portfolio using all the S&P 100 companies as an example. You specify the level of expected returns at which to perform the allocation.
 
-**Keep in mind this is an independent project, not investment advice. These are not forward-looking statements or advice to buy or sell any security.**
+**This is an independent project, not investment advice. These are not forward-looking statements or advice to buy or sell any security.**
 
 If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, this is the minimum-variance allocation to achieve about 25% annual returns over that time period:
 
