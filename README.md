@@ -8,7 +8,7 @@ This is an implementation of [Robert C. Merton](https://en.wikipedia.org/wiki/Ro
 
 Building on the work of [Harry Markowitz](https://en.wikipedia.org/wiki/Modern_portfolio_theory), Dr. Merton describes an algorithm that assigns weights to a list of securities in such a manner that the generated portfolio has the <ins>lowest variance in returns for a given level of expected returns</ins>, based on historical returns data. Each weight may be positive or negative corresponding to long and short positions, or zero when no position should be taken. They will sum to 100%.
 
-The Colab notebook linked above returns such a portfolio using all the S&P 100 companies as an example. You specify the level of expected returns at which to perform the allocation. If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, this is the resulting minimum-variance allocation at the 25% expected return level:
+The Colab notebook linked above returns such a portfolio using all the current S&P 100 companies as an example. You specify the level of expected returns at which to perform the allocation. If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, this is the resulting minimum-variance allocation at the 25% expected return level:
 
 | Long   |            | Less than 1% |            | Short  |            |
 |--------|------------|--------------|------------|--------|------------|
