@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SLOCZVNzx8zMBftkt5v8KA3CwtHMlguU?usp=sharing)
 
-**This is an independent project, not investment advice. These are not forward-looking statements or advice to buy or sell any security.**
+**This is not  advice to buy or sell any security.**
 
 This is an implementation of [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton)'s efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972), written in a Jupyter notebook (Google Colaboratory). Run the code [here](https://colab.research.google.com/drive/1SLOCZVNzx8zMBftkt5v8KA3CwtHMlguU?usp=sharing).
 
