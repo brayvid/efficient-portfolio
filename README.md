@@ -4,11 +4,11 @@
 
 **This is not  advice to buy or sell any security.**
 
-This is an implementation of [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton)'s efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972), written in a Jupyter notebook (Google Colaboratory). Run the code [here](https://colab.research.google.com/drive/1SLOCZVNzx8zMBftkt5v8KA3CwtHMlguU?usp=sharing).
+This is an implementation of Robert C. Merton's efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972) written in Google Colab. [Run it here.](https://colab.research.google.com/drive/1SLOCZVNzx8zMBftkt5v8KA3CwtHMlguU?usp=sharing)
 
-Building on the work of [Harry Markowitz](https://en.wikipedia.org/wiki/Modern_portfolio_theory), Dr. Merton describes an algorithm that assigns weights to a list of securities in such a manner that the generated portfolio has the <ins>lowest variance in returns for a given level of expected returns</ins>, based on historical returns data. Each weight may be positive or negative corresponding to long and short positions, or zero when no position should be taken. They will sum to 100%.
+Building on the work of Harry Markowitz, Merton describes a way to assign weights to a list of securities to make a portfolio that has the lowest variance in returns for a given level of expected returns, based on historical returns data. Each weight may be positive or negative corresponding to long and short positions, or zero when no position should be taken. They will sum to 100%.
 
-The Colab notebook linked above returns such a portfolio using all the current S&P 100 companies as an example. You specify the level of expected returns at which to perform the allocation. If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, this is the resulting minimum-variance allocation at the 25% expected return level:
+The notebook above finds such a portfolio using all S&P 100 companies. You specify the level of expected returns at which to perform the allocation. If the entire S&P 100 is used as input with data from 1/1/2011 to 12/31/2019, this is the resulting minimum-variance allocation at the 25% expected return level:
 
 | Long   |            | Less than 1% |            | Short  |            |
 |--------|------------|--------------|------------|--------|------------|
