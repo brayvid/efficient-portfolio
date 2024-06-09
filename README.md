@@ -1,6 +1,6 @@
 # Efficient Portfolio Construction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SLOCZVNzx8zMBftkt5v8KA3CwtHMlguU?usp=sharing)
+<a href="[https://colab.research.google.com/github/brayvid/skyrim-alchemy-optimizer/blob/main/skyrim_optimize_potions.ipynb](https://colab.research.google.com/github/brayvid/efficient-portfolio/blob/main/EfficientPortfolio.ipynb)" rel="Open in Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" /></a>
 
 **This is not  advice to buy or sell any security.**
 
