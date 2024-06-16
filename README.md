@@ -4,7 +4,7 @@
 
 **This is not  advice to buy or sell any security.**
 
-This is an implementation of Robert C. Merton's efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972) written in Google Colab.
+This is an implementation of Robert C. Merton's efficient portfolio algorithm from the paper [*An Analytic Derivation of the Efficient Portfolio Frontier*](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) (1972) in Google Colab.
 
 Building on the work of Harry Markowitz, Merton describes a way to assign weights to a list of securities to make a portfolio that has the lowest variance in returns for a given level of expected returns, based on historical returns data. Each weight may be positive or negative corresponding to long and short positions, or zero when no position should be taken. They will sum to 100%.
 
