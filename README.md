@@ -71,3 +71,7 @@ The Merton-allocated portfolio had an annualized inflation-adjusted growth rate 
 It saw an alpha of over 20% and a beta of 0.07, handily surpassing the equal weight portfolio with 3.5% and 0.97 respectively:
 </br>
 <img src="example/metrics_table.png" alt="metrics" width="100%"/>
+
+----
+
+<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
